@@ -14,6 +14,6 @@ steps:
   displayName: 'Run a one-line script'
 
 - script: |
-    echo Add other tasks to build, test, and deploy your project.
-    echo See https://aka.ms/yaml
+    echo Hello MSCI
+    echo The Internet is not a dumptruck. It's a series of tubes.
   displayName: 'Run a multi-line script'
