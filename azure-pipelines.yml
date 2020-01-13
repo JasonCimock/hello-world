@@ -15,5 +15,5 @@ steps:
 
 - script: |
     echo Hello MSCI
-    echo The Internet is not a dumptruck. It's a series of tubes.
+    echo The Internet is not a dumptruck
   displayName: 'Run a multi-line script'
