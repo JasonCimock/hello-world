@@ -24,3 +24,4 @@ steps:
 - task: Bash@3
   inputs:
     filePath: 'hello.sh'
+
